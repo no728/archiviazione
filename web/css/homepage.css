@@ -1,0 +1,26 @@
+#container_div
+{
+    display:flex
+}
+#left_div, #right_div
+{
+    text-align: center;
+    display:inline;
+}
+#left_div
+{
+    width: 50%;
+}
+#right_div
+{
+    width: 50%;
+}
+#form_tipologia_documento{
+    width: 25%;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
